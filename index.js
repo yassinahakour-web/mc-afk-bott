@@ -2,10 +2,10 @@ const mineflayer = require('mineflayer');
 
 function createBot() {
   const bot = mineflayer.createBot({
-    host: 'SMP_Family.aternos.me',
-    port: 39018,
+    host: 'BLRX.aternos.me',
+    port: 11415,
     username: 'ahmad55',
-    version: '1.21.4', // تعديل رقم الإصدار لـ 1.21.4
+    version: '1.21.1', // تعديل رقم الإصدار لـ 1.21.4
     checkTimeoutInterval: 60 * 1000
   });
 
